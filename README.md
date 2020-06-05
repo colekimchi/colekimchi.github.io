@@ -1,2 +1,2 @@
 # colekimchi.github.io
-github pages
+Repository for my github page at colekimchi.github.io
